@@ -1,0 +1,66 @@
+2022-03-16 08:56:50,932 [INFO] Hello World!
+2022-03-16 08:56:50,933 [INFO] Reading Yaml File
+2022-03-16 08:56:50,934 [INFO] write_json_file
+2022-03-16 08:58:57,512 [INFO] 
+Name of Python script:.\main.py
+2022-03-16 08:58:57,513 [INFO] 
+Name of Yaml File tO Read:hello.yaml
+2022-03-16 08:58:57,513 [INFO] 
+Name of Json File to Wrie:hello.json
+2022-03-16 08:58:57,514 [INFO] Hello World!
+2022-03-16 08:58:57,515 [INFO] Reading Yaml File
+2022-03-16 08:58:57,515 [INFO] write_json_file
+2022-03-16 08:59:16,949 [INFO] Name of Python script:.\main.py
+2022-03-16 08:59:16,949 [INFO] Name of Yaml File tO Read:hello.yaml
+2022-03-16 08:59:16,956 [INFO] Name of Json File to Wrie:hello.json
+2022-03-16 08:59:16,956 [INFO] Hello World!
+2022-03-16 08:59:16,958 [INFO] Reading Yaml File
+2022-03-16 08:59:16,958 [INFO] write_json_file
+2022-03-16 09:04:18,135 [INFO] Name of Python script:.\main.py
+2022-03-16 09:04:18,135 [INFO] Name of Yaml File tO Read:hello.yaml
+2022-03-16 09:04:18,137 [INFO] Name of Json File to Wrie:hello.json
+2022-03-16 09:04:18,137 [INFO] Hello World!
+2022-03-16 09:04:18,138 [INFO] Reading Yaml File
+2022-03-16 09:04:18,140 [INFO] write_json_file
+2022-03-16 09:05:41,976 [INFO] Name of Python script:.\main.py
+2022-03-16 09:05:41,976 [INFO] Name of Yaml File tO Read:hello.yaml
+2022-03-16 09:05:41,977 [INFO] Name of Json File to Wrie:hello.json
+2022-03-16 09:05:41,977 [INFO] Hello World!
+2022-03-16 09:05:41,977 [INFO] Reading Yaml File
+2022-03-16 09:05:41,979 [INFO] write_json_file
+2022-03-16 09:09:19,687 [INFO] Name of Python script:.\main.py
+2022-03-16 09:09:19,687 [INFO] Name of Yaml File tO Read:hello.yaml
+2022-03-16 09:09:19,689 [INFO] Name of Json File to Wrie:hello.json
+2022-03-16 09:09:19,689 [INFO] Hello World!
+2022-03-16 09:09:19,689 [INFO] Reading Yaml File
+2022-03-16 09:09:19,691 [INFO] write_json_file
+2022-03-16 10:06:13,365 [INFO] Hello World!
+2022-03-16 10:06:13,367 [INFO] Name of Python script:.\main.py
+2022-03-16 10:06:13,367 [INFO] Name of Yaml File tO Read:hello.yaml
+2022-03-16 10:06:13,367 [INFO] Name of Json File to Write:hello.json
+2022-03-16 10:06:13,367 [INFO] Reading Yaml File
+2022-03-16 10:06:13,368 [INFO] write_json_file
+2022-03-16 10:10:15,098 [INFO] Hello World!
+2022-03-16 10:10:15,098 [INFO] Name of Python script:D:\YamlToJson\main.py
+2022-03-16 10:10:15,101 [INFO] Name of Yaml File tO Read:hello.yaml
+2022-03-16 10:10:15,101 [INFO] Name of Json File to Write:hello.json
+2022-03-16 10:10:15,101 [INFO] Reading Yaml File
+2022-03-16 10:10:15,102 [INFO] write_json_file
+2022-03-16 10:14:30,421 [INFO] Hello World!
+2022-03-16 10:14:30,423 [ERROR] Exception in main
+Traceback (most recent call last):
+  File "D:\YamlToJson\main.py", line 19, in main
+    1/0
+ZeroDivisionError: division by zero
+2022-03-16 10:34:00,105 [INFO] Hello World!
+2022-03-16 10:34:00,105 [ERROR] Exception in main
+Traceback (most recent call last):
+  File "D:\YamlToJsonPhyton\main.py", line 19, in main
+    1/0
+ZeroDivisionError: division by zero
+2022-03-16 10:34:13,965 [INFO] Hello World!
+2022-03-16 10:34:13,965 [INFO] Name of Python script:main.py
+2022-03-16 10:34:13,968 [INFO] Name of Yaml File tO Read:hello.yaml
+2022-03-16 10:34:13,969 [INFO] Name of Json File to Write:hello.json
+2022-03-16 10:34:13,969 [INFO] Reading Yaml File
+2022-03-16 10:34:13,970 [INFO] write_json_file
